@@ -1,4 +1,7 @@
-Hello, This is my first project in the field of programming. It’s a calendar that performs date conversion and allows us to add a task or event for each day. This program is written in C, and I encountered some really cool challenges while working on it. Thank you for your time.
+Hello, This is my first project in the field of programming.
+It’s a calendar that performs date conversion and allows us to add a task or event for each day.
+This program is written in C, and I encountered some really cool challenges while working on it.
+Thank you for your time.
 
 سلام
 این اولین پروژه من تو حوزه برنامه نوسی هست
